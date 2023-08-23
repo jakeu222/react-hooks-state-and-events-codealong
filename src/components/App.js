@@ -4,7 +4,8 @@ import Toggle from "./Toggle";
 function App() {
   return (
     <div>
-      <h3>Toggle</h3>
+      <h3>Yo this the MF'in Toggle button</h3>
+      <p>look at the colors change its great</p>
       <Toggle />
     </div>
   );
